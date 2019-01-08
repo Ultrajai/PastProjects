@@ -9,7 +9,7 @@ Personal Project 1 - Rubix Slider Game
   - its not finished but shows where I came from
   
 Personal Project 2 - Guild Management
-  - There is nothing in it as of now because its not worth showing as of yet
+  - There is nothing in it as of now because its not worth showing yet
   - Its the most ambitious game I thought of creating recently and will not be finished anytime soon
   - I wanted to try my hand after learning more about OO programming and designing systems just to see how much I have progressed
   - A large hobbie project that I will slowly work on in my past time
