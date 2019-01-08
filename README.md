@@ -23,4 +23,4 @@ Project 3
   - Gat a mark above 90/100
   
 Project 4
-  - This is a project for my data structures class where we created a program that takes keys from a text file and sorts them into an AVL tree
+  - This is a project for my Data Structures class where we created a program that takes keys from a text file and sorts them into an AVL tree
