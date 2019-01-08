@@ -6,7 +6,14 @@ Personal Project 1 - Rubix Slider Game
   - I made some bad design choices as I was just coding how I liked without regard to proper methods
   - This code was created around the time I decided I wanted to pursue software engineering in University
   - One of the only games I luckily saved on a separate USB before my previous computer broke
+  - its not finished but shows where I came from
   
+Personal Project 2 - Guild Management
+  - There is nothing in it as of now because its not worth showing as of yet
+  - Its the most ambitious game I thought of creating recently and will not be finished anytime soon
+  - I wanted to try my hand after learning more about OO programming and designing system to see how much I have progressed
+  - A large hobbie project that I will slowly work on in my past time
+
 Project 1
   - This was a project for my Data Structures class where we created a car renting system with linkd lists and a postorder calculator
   - Got a mark above 90/100
