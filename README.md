@@ -26,7 +26,7 @@ Project 2
   
 Project 3
   - This was a project from my Data Structures class where we created a program that takes an equation with round braces and creates a binary tree from that string and another program that sorts a text files strings with heap sort
-  - G0t a mark above 90/100
+  - Got a mark above 90/100
   
 Project 4
   - This was a project from my Data Structures class where we created a program that takes keys from a text file and sorts them into an AVL tree
