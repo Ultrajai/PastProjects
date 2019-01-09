@@ -37,5 +37,5 @@ Project 5
     - ProcessFileByField.pl: This parses a csv file based on user inputs (uses regex)
     - PlotEmployment.pl: Plots employment values based on education using R
     - PercentageContribution.pl: Creates a table based on user input about the amount a province contributes to a speciic education level (highschool, postsecondary, etc) in percentage 
-    - CompareEducationEmploy.pl: Creates 3 CSV files for male, female, and both sexes that place the values of employment based on education so that PlotEmployment.pl can create a graph using R
+    - CompareEducationEmploy.pl: Creates 3 CSV files for male, female, and both sexes and places values of employment based on education so that later PlotEmployment.pl can create a graph using R
   - got a mark above 80/100
