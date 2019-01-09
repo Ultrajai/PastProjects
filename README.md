@@ -4,7 +4,7 @@ Projects from university and personal interests
 Personal Project 1 - Rubix Slider Game
   - This was code created back in 2016 when I was still in my twelfth grade
   - This code was created around the time I decided I wanted to pursue software engineering in University
-  - One of the only games I luckily saved on a separate USB before I transfered computers
+  - One of the only games I luckily saved on a separate USB before I did a full reset on my computer
   - its not finished but shows where I came from
   
 Personal Project 2 - Guild Management
