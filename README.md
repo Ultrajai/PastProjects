@@ -14,19 +14,24 @@ Personal Project 2 - Guild Management
   - A large hobbie project that I will slowly work on in my past time
 
 Project 1
-  - This was a project for my Data Structures class where we created a car renting system with linkd lists and a postorder calculator
+  - This was a project from my Data Structures class where we created a car renting system with linkd lists and a postorder calculator
   - Got a mark above 90/100
   
 Project 2
-  - This is the combination of assignment 1 and 2 for my Object Oriented Programming class
+  - This is the combination of assignment 1 and 2 from my Object Oriented Programming class
   - This was technically one large assignment broke up into two assignments
   - Assignment 1: we implemented the functionality of a university course and degree system
   - Assignment 2: we added UI with Java Swing andd added SQL database functionality
   - Got a mark of 100/100
   
 Project 3
-  - This is a project for my Data Structures class where we created a program that takes an equation with round braces and creates a binary tree from that string and another program that sorts a text files strings with heap sort
-  - Gat a mark above 90/100
+  - This was a project from my Data Structures class where we created a program that takes an equation with round braces and creates a binary tree from that string and another program that sorts a text files strings with heap sort
+  - G0t a mark above 90/100
   
 Project 4
-  - This is a project for my Data Structures class where we created a program that takes keys from a text file and sorts them into an AVL tree
+  - This was a project from my Data Structures class where we created a program that takes keys from a text file and sorts them into an AVL tree
+
+Project 5
+  - This was a project from my Software Design II class where we were tasked to parse and create visual representations of census data from Statistics Canada using R and perl
+  - In this folder is the code I created for the project
+  - got a mark above 80/100
