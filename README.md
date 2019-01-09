@@ -29,6 +29,7 @@ Project 3
   
 Project 4
   - This was a project from my Data Structures class where we created a program that takes keys from a text file and sorts them into an AVL tree
+  - Got a mark above 90/100
 
 Project 5
   - This was a project from my Software Design II class where we were tasked to parse and create visual representations of census data from Statistics Canada using R and perl
