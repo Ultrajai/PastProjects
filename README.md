@@ -34,4 +34,8 @@ Project 4
 Project 5
   - This was a project from my Software Design II class where we were tasked to parse and create visual representations of census data from Statistics Canada using R and perl
   - In this folder is the code I created for the project
+    - ProcessFileByField.pl: This parses a csv file based on user inputs (uses regex)
+    - PlotEmployment.pl: Plots employment values based on education using R
+    - PercentageContribution.pl: Creates a table based on user input about the amount a province contributes to a speciic education level (highschool, postsecondary, etc) in percentage 
+    - CompareEducationEmploy.pl: Creates 3 CSV files for male, female, and both sexes that place the values of employment based on education so that PlotEmployment.pl can create a graph using R
   - got a mark above 80/100
