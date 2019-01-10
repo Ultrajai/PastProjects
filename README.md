@@ -20,7 +20,7 @@ Project 2
   - This is the combination of assignment 1 and 2 from my Object Oriented Programming class
   - This was technically one large assignment broke up into two assignments
   - Assignment 1: we implemented the functionality of a university course and degree system
-  - Assignment 2: we added UI with Java Swing andd added SQL database functionality
+  - Assignment 2: we added UI with Java Swing and added SQL database functionality
   - Got a mark of 100/100
   
 Project 3
