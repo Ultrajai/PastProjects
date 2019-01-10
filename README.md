@@ -38,4 +38,4 @@ Project 5
     - PlotEmployment.pl: Plots employment values based on education using R
     - PercentageContribution.pl: Creates a table based on user input about the amount a province contributes to a speciic education level (highschool, postsecondary, etc) in percentage 
     - CompareEducationEmploy.pl: Creates 3 CSV files for male, female, and both sexes and places values of employment based on education so that later PlotEmployment.pl can create a graph using R
-  - got a mark above 80/100
+  - Got a mark above 80/100
