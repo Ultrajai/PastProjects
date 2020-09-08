@@ -1,0 +1,48 @@
+[gd_scene load_steps=6 format=2]
+
+[ext_resource path="res://Source/GameMode-Manager.gd" type="Script" id=2]
+[ext_resource path="res://Source/Touchinput-Manager.gd" type="Script" id=3]
+[ext_resource path="res://Roboto-Regular.ttf" type="DynamicFontData" id=4]
+[ext_resource path="res://Sprites/BackGround4.png" type="Texture" id=5]
+
+[sub_resource type="DynamicFont" id=1]
+size = 100
+outline_color = Color( 0, 0, 0, 1 )
+font_data = ExtResource( 4 )
+
+[node name="MainGame" type="Node2D"]
+
+[node name="Camera2D" type="Camera2D" parent="."]
+current = true
+
+[node name="GamePiecesContainer" type="Node2D" parent="."]
+
+[node name="BackGround" type="Sprite" parent="."]
+position = Vector2( -2.95639e-05, 0 )
+scale = Vector2( 1.33333, 1.32963 )
+texture = ExtResource( 5 )
+
+[node name="GameManager" type="Node2D" parent="."]
+
+[node name="GameMode-Manager" type="Node2D" parent="GameManager"]
+script = ExtResource( 2 )
+
+[node name="TextUI-Manager" type="Node2D" parent="GameManager"]
+
+[node name="TouchInput-Manager" type="Node2D" parent="GameManager"]
+script = ExtResource( 3 )
+
+[node name="Label" type="Label" parent="."]
+modulate = Color( 0, 0, 0, 1 )
+margin_left = -512.0
+margin_top = -1176.0
+margin_right = 544.0
+margin_bottom = -770.0
+custom_fonts/font = SubResource( 1 )
+autowrap = true
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="Node2D" type="Node2D" parent="."]
+position = Vector2( 0, -688 )
