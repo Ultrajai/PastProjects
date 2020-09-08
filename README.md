@@ -6,6 +6,11 @@ Personal Project 1 - Rubix Slider Game
   - This code was created around the time I decided I wanted to pursue software engineering in University
   - One of the only games I luckily saved on a separate USB before I did a full reset on my computer
 
+Personal Project 1 - Rubix Slider 2.0
+  - Decided to work on the game again and try out some ideas I had in my head
+  - This works on Godot 3.2.1 so if you would like to look get the correct engine version
+  - If you want to view the various gamemodes just change the game mode value in the code
+
 Project 1
   - This was a project from my Data Structures class where we created a car renting system with linkd lists and a postorder calculator
   - Got a mark above 90/100
